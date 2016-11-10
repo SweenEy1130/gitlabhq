@@ -34,6 +34,7 @@ gem 'omniauth-shibboleth',    '~> 1.2.0'
 gem 'omniauth-twitter',       '~> 1.2.0'
 gem 'omniauth_crowd',         '~> 2.2.0'
 gem 'rack-oauth2',            '~> 1.2.1'
+gem 'omniauth-yufu'
 gem 'jwt'
 
 # Spam and anti-bot protection

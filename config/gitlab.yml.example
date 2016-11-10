@@ -380,6 +380,8 @@ production: &base
       # - { name: 'facebook',
       #     app_id: 'YOUR_APP_ID',
       #     app_secret: 'YOUR_APP_SECRET' }
+      # - { name: 'yufu',
+      #     public_key: 'YOUR_PUBLIC_KEY' }
       # - { name: 'twitter',
       #     app_id: 'YOUR_APP_ID',
       #     app_secret: 'YOUR_APP_SECRET' }
